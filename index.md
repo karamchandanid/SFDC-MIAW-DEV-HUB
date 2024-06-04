@@ -14,11 +14,11 @@
 				
 				console.log('initEmbeddedMessaging','embeddedservice_bootstrap','init');
 				embeddedservice_bootstrap.init(
-					'00Ddx0000001gtF',
+					'00D0o0000016oQo',
 					'Github',
-					'https://legrandav--echochat.sandbox.my.site.com/ESWGithub1717396104980',
+					'https://devhubdk-dev-ed.my.site.com/ESWGithub1717475956316',
 					{
-						scrt2URL: 'https://legrandav--echochat.sandbox.my.salesforce-scrt.com'
+						scrt2URL: 'https://devhubdk-dev-ed.my.salesforce-scrt.com'
 					}
 				);
 				console.log('initEmbeddedMessaging','embeddedservice_bootstrap','done');
@@ -27,5 +27,5 @@
 			}
 		};
 	</script>
-	<script type='text/javascript' src='https://legrandav--echochat.sandbox.my.site.com/ESWGithub1717396104980/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+	<script type='text/javascript' src='https://devhubdk-dev-ed.my.site.com/ESWGithub1717475956316/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
 </body>
